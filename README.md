@@ -1,2 +1,2 @@
-# View writeup
+# Predicting bitcoin transactions
 
